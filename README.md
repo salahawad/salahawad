@@ -1,4 +1,11 @@
-# A geek software developer with eagerness to experience the full chain process from product development to product design & management, to product marketing in both startups & multinational companies, well this summarizes it all.
+![Salah Awad](https://user-images.githubusercontent.com/3090296/121772387-5f92cb00-cb75-11eb-8fa2-59c59c9fd643.png)
+
+
+[Linkedin](https://www.linkedin.com/in/salahelawad/)
+[Medium](https://medium.com/@salahawad)
+[Twitter](https://twitter.com/salahelawad)
+
+## A geek software developer with eagerness to experience the full chain process from product development to product design & management, to product marketing in both startups & multinational companies, well this summarizes it all.
 
 I have an overall 15 years of experience in software development, 5 years of experience in technical and functional product management in a multinational company and 2 years of experience in business development, project management, and marketing.
 
