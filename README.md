@@ -32,23 +32,63 @@ I work with startups, SMEs, and institutions where reliability, scalability, and
 
 ## Tech Stack
 
+### Languages
+`Java` `C#` `Python` `JavaScript` `PHP` `C++`
+
+### Frontend
+`React` `Angular` `Vue` `Electron`
+
+### Backend & Frameworks
+`Laravel` `FastAPI` `Spring` `Express.js` `Node.js` `ASP.NET`
+
 ### Architecture & Cloud
-`Kubernetes` `Helm` `Docker` `Azure` `Proxmox` `k3s` `HA Systems`
+`Kubernetes` `Helm` `Docker` `AWS` `Azure` `GCP` `Proxmox` `k3s` `HA Systems`
 
-### Backend
-`Laravel` `FastAPI` `Python` `PostgreSQL` `Redis` `MongoDB`
+### Databases
+`PostgreSQL` `Oracle` `MSSQL` `MariaDB` `MySQL` `MongoDB` `Neo4j` `Redis`
 
-### Storage & Streaming
-`MinIO` `NFS` `Distributed Object Storage`
+### Data & Streaming
+`Hadoop` `Kafka` `Apache Spark` `Airflow` `Superset` `Apache Camel` `RabbitMQ` `MinIO`
 
-### AI & Media Processing
-`FFmpeg` `MarianNMT` `TTS Pipelines` `Computer Vision Workflows`
+### AI, NLP & Media Processing
+`FFmpeg` `MarianNMT` `TTS Pipelines` `Spacy` `TIKA` `Tesseract` `OpenNLP` `Computer Vision`
 
-### DevOps & Observability
-`GitLab CI` `ArgoCD` `Prometheus` `Grafana` `Loki` `Sentry`
+### Search Engines
+`Solr` `ELK` `OpenSearch`
+
+### CI/CD & DevOps
+`Jenkins` `Ansible` `GitLab CI` `Azure DevOps` `GitHub Actions` `ArgoCD`
+
+### Observability
+`Prometheus` `Grafana` `Loki` `Sentry`
 
 ### Security & Identity
 `Keycloak` `SAML2` `OAuth2` `OIDC`
+
+### Web Servers
+`Nginx` `Tomcat` `IIS`
+
+### Blockchain
+`Corda` `Ethereum`
+
+### CRM & ERP
+`Salesforce` `PeopleSoft` `Pegasus` `Odoo`
+
+### Tools & Management
+`Jira` `ClickUp` `Asana` `Trello` `MS Project` `Figma` `Adobe XD`
+
+---
+
+## Certifications & Training
+
+- **Microsoft Professional Developer (MCPD)**
+- Product & Technical Training @ Oracle JavaOne Conference, USA
+- Agile Software Development @ XP Days Benelux, Netherlands
+- Product Management @ Tarigo, UK
+- Project Management @ Drivetask, France
+- Professional Tester Training @ Construx, France
+- SCRUM Training @ Paris, France
+- Agile Scrum Development @ New Horizon, Lebanon
 
 ---
 
