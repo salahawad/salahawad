@@ -1,33 +1,112 @@
-![Salah Awad](https://user-images.githubusercontent.com/3090296/121772387-5f92cb00-cb75-11eb-8fa2-59c59c9fd643.png)
+# Salah Awad
 
+**CTO | Distributed Systems Architect | AI Infrastructure**
 
-[Linkedin](https://www.linkedin.com/in/salahelawad/)
-[Medium](https://medium.com/@salahawad)
-[Twitter](https://twitter.com/salahelawad)
+Designing scalable, production-grade systems across Kubernetes, Laravel, FastAPI, and AI-driven automation.
 
-## A geek software developer with eagerness to experience the full chain process from product development to product design & management, to product marketing in both startups & multinational companies, well this summarizes it all.
+- CTO-as-a-Service for startups, SMEs & enterprise programs
+- Focus: scalability, reliability, performance & cloud-native architectures
+- Specializing in high-throughput backend platforms & media pipelines
 
-I have an overall 15 years of experience in software development, 5 years of experience in technical and functional product management in a multinational company and 2 years of experience in business development, project management, and marketing.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahelawad/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@salahawad)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/salahelawad)
 
-I took over the Accelerator CTO position at Berytech in November 2019, and working closely for now with startups in Agrytech & Clean Energy fields, and preparing for new batches in SocialTech & Fintech industries as well.
+---
 
-I was recently assigned as deputy programs director at Berytech, in addition to my CTO role, to manage ACT SMART program fully funded by the Kingdom of the Netherlands.
+## About
 
-The main lesson learned from all those years was my attaint belief that the main key to success is my ability to keep learning on a daily basis to cope with market change and fast pace technologies.
+I am a CTO and distributed systems architect specializing in building scalable, high-performance platforms across AI workflows, backend systems, and cloud-native infrastructure.
 
-And what is more, fun than to share all this knowledge with young talents seeking a bright professional future? Well Facebook gave me the needed platform through Facebook Developers Circle , a community I am currently leading in Beirut, that has more than 3200 developers for whom we organize regular monthly events and bring the best experts in new technologies to give them an overview on the current market business needs and of course while providing plenty of hands-on sessions and participating in local and international hackathons! 
+My work focuses on:
 
-<!--
-**salahawad/salahawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Cloud-native architectures (Kubernetes, Helm, HA environments)
+- Backend engineering (Laravel, FastAPI, PostgreSQL, Redis, MongoDB)
+- AI/media processing pipelines (FFmpeg orchestration, TTS, translation workflows)
+- Enterprise authentication systems (Keycloak, SAML2, OAuth2/OIDC)
+- Observability & performance optimization (Prometheus, Grafana, Loki)
 
-Here are some ideas to get you started:
+I work with startups, SMEs, and institutions where reliability, scalability, and execution speed are critical.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Architecture & Cloud
+`Kubernetes` `Helm` `Docker` `Azure` `Proxmox` `k3s` `HA Systems`
+
+### Backend
+`Laravel` `FastAPI` `Python` `PostgreSQL` `Redis` `MongoDB`
+
+### Storage & Streaming
+`MinIO` `NFS` `Distributed Object Storage`
+
+### AI & Media Processing
+`FFmpeg` `MarianNMT` `TTS Pipelines` `Computer Vision Workflows`
+
+### DevOps & Observability
+`GitLab CI` `ArgoCD` `Prometheus` `Grafana` `Loki` `Sentry`
+
+### Security & Identity
+`Keycloak` `SAML2` `OAuth2` `OIDC`
+
+---
+
+## Selected Work
+
+### Distributed Media Processing Systems
+Designed scalable pipelines for automated media workflows, including concurrent processing, multilingual orchestration, and high-volume workloads.
+
+`FastAPI` `FFmpeg` `Python` `Kubernetes`
+
+### Cloud-Native Backend Architectures
+Built stateless backend platforms designed for HA deployments, horizontal scaling, and performance optimization.
+
+`Laravel` `PostgreSQL` `Redis` `Kubernetes`
+
+### Enterprise Authentication Infrastructure
+Implemented multi-tenant SSO ecosystems supporting SAML2 and OIDC across distributed applications.
+
+`Keycloak` `Kubernetes` `Laravel`
+
+### High-Scale Multilingual Processing Pipelines
+Designed resilient translation and TTS workflows with fallback logic and distributed queue orchestration.
+
+`Python` `Queue Systems` `MarianNMT`
+
+---
+
+## Impact
+
+- Architected distributed systems supporting large-scale users and workloads
+- Led multi-team engineering initiatives across cloud-native environments
+- Delivered high-availability infrastructures across multiple regions
+- Optimized performance for latency-sensitive backend platforms
+
+---
+
+## CTO-as-a-Service
+
+I support organizations with:
+
+- Architecture design & system audits
+- Cloud migration & optimization strategies
+- Performance tuning & scaling
+- Engineering leadership & team structuring
+- AI integration roadmaps
+
+---
+
+## Engineering Philosophy
+
+- Systems must scale before they grow
+- Observability is non-negotiable
+- Automation over manual workflows
+- Performance is a feature
+- Architecture must serve business outcomes
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahawad&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salahawad)
